@@ -3,8 +3,8 @@
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-ID="ZDF.de" tvg-name="ZDF.de",ZDF
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
-#EXTINF:0 tvg-ID="SWR-bw.de" tvg-name="SWRSR.de",SWR
-https://www.ardmediathek.de/ard/live/Y3JpZDovL3N3ci5kZS8xMzQ4MTA0Mg
+#EXTINF:0 tvg-ID="SWR-bw.de" tvg-name="SWRBW.de",SWR BW
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3776.m3u8
 #EXTINF:0 tvg-ID="BR.de" tvg-name="BR.de",BR Fernsehen
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:0 tvg-ID="HR.de" tvg-name="hr-Fernsehen.de",HR Fernsehen
